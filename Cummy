@@ -1,0 +1,14 @@
+{ 
+  "username": "Cummy2":,
+  "avatar_url": "https://i.redd.it/douyyokbc7611.jpg",
+  "content": "I am the Cummy 2"
+  "embeds": [
+  {
+    "author": {
+        "name": "The Alpha Cummy",
+        "url": "https://www.reddit.com/r/cats/",
+        "icon_url": "https://i.imgur.com/R66g1Pe.jpg"
+      },
+    "image": "https://images-na.ssl-images-amazon.com/images/I/511YmwHTREL.jpg"
+  ]
+}
